@@ -35,6 +35,7 @@ Each day's work lives in its own folder:
 | 2   | Data Types and string manipulation                         | Tip Calculator      |
 | 3   | Conditional statements, Logical operators and control flow | Treasure Island     |
 | 4   | Randomisation and Python Lists                             | Rock Paper Scissors |
+| 5   | Python Loops                                               | Password Generator  |
 
 *(new row added as each day is completed)*
 

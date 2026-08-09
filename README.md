@@ -37,6 +37,8 @@ Each day's work lives in its own folder:
 | 4   | Randomisation and Python Lists                             | Rock Paper Scissors |
 | 5   | Python Loops                                               | Password Generator  |
 | 6   | Python Functions and Karel                                 | Escaping the Maze   |
+| 7   | Revising concepts                                          | Hangman             |
+| 8   | Functions with input                                       | Carsar Cipher       |
 
 *(new row added as each day is completed)*
 

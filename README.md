@@ -29,16 +29,17 @@ Each day's work lives in its own folder:
 
 ## Progress Log
 
-| Day | Topic                                                      | Project             |
-|-----|------------------------------------------------------------|---------------------|
-| 1   | Variables, `print()`, `input()`                            | Band Name Generator |
-| 2   | Data Types and string manipulation                         | Tip Calculator      |
-| 3   | Conditional statements, Logical operators and control flow | Treasure Island     |
-| 4   | Randomisation and Python Lists                             | Rock Paper Scissors |
-| 5   | Python Loops                                               | Password Generator  |
-| 6   | Python Functions and Karel                                 | Escaping the Maze   |
-| 7   | Revising concepts                                          | Hangman             |
-| 8   | Functions with input                                       | Carsar Cipher       |
+| Day | Topic                                                      | Project                |
+|-----|------------------------------------------------------------|------------------------|
+| 1   | Variables, `print()`, `input()`                            | Band Name Generator    |
+| 2   | Data Types and string manipulation                         | Tip Calculator         |
+| 3   | Conditional statements, Logical operators and control flow | Treasure Island        |
+| 4   | Randomisation and Python Lists                             | Rock Paper Scissors    |
+| 5   | Python Loops                                               | Password Generator     |
+| 6   | Python Functions and Karel                                 | Escaping the Maze      |
+| 7   | Revising concepts                                          | Hangman                |
+| 8   | Functions with input                                       | Carsar Cipher          |
+| 9   | Dictionaries,Nesting and the secret Auction                | Secret Auction Program |
 
 *(new row added as each day is completed)*
 

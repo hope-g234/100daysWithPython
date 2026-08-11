@@ -40,6 +40,7 @@ Each day's work lives in its own folder:
 | 7   | Revising concepts                                          | Hangman                |
 | 8   | Functions with input                                       | Carsar Cipher          |
 | 9   | Dictionaries,Nesting and the secret Auction                | Secret Auction Program |
+| 10  | Functions with outputs                                     | The Calculator Project |
 
 *(new row added as each day is completed)*
 

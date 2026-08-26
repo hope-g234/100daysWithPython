@@ -42,6 +42,7 @@ Each day's work lives in its own folder:
 | 9   | Dictionaries,Nesting and the secret Auction                | Secret Auction Program     |
 | 10  | Functions with outputs                                     | The Calculator Project     |
 | 11  | Review all topics                                          | Blackjack Capstone Project |
+| 12  | Review all topics                                          | Number Guessing game       |
 
 
 *(new row added as each day is completed)*

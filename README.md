@@ -44,6 +44,7 @@ Each day's work lives in its own folder:
 | 11  | Review all topics                                          | Blackjack Capstone Project |
 | 12  | Review all topics                                          | Number Guessing game       |
 | 13  | Debugging                                                  | -----------                |
+| 14  | Review all topics                                          | The Higher Lower Game      |
 
 *(new row added as each day is completed)*
 
